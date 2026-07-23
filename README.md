@@ -1,5 +1,9 @@
 # My Learning Journey
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/e6ef1943-8cc4-45e3-afaa-12e0c5a3277f/thumbnail" >
+</p>
+
 I started learning Python about two months ago. This repository documents my progress, exercises, projects, and certificates.
 
 ## Python
