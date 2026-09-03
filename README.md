@@ -63,7 +63,7 @@ I completed the Learn Object Oriented Programming in Python course to improve my
 
 [![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a390d2f3-83da-4111-abe4-3cc1b4fd865b.jpeg?v=1785515675)](https://www.boot.dev/certificates/a390d2f3-83da-4111-abe4-3cc1b4fd865b)
 
-## Asteroids game
+## Asteroids game Repository
 
 I completed the Build Asteroids using Python and Pygame guided project on Boot.dev.
 The project made me use Pygame and practice Object Oriented Programming.
@@ -83,3 +83,17 @@ I completed the Functional Programming in Python course to improve my python kno
 ### Certificate
 
 [![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/fa4f8218-12ab-40a4-81cc-bb20a6362a97.jpeg?v=1786600506)](https://www.boot.dev/certificates/fa4f8218-12ab-40a4-81cc-bb20a6362a97)
+
+## AI Agent
+
+I completed the Build an AI Agent in Python guided project on Boot.dev.
+The project made me learn how LLMs work and send prompts to LLMs on OpenRouter using the OpenAI Python SDK, Give my AI agent the ability to call functions based on its system prompt and context window and give my tool a proper feedback loop to make it truly "agentic" and fix a real bug.
+
+### Certificate
+
+https://github.com/CabyQuentin/Boot-IA-agent
+[![Boot.dev Build an AI Agent in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/50261daf-fa6c-4a8e-84d3-bab022b62251.jpeg?v=1788445399)](https://www.boot.dev/certificates/50261daf-fa6c-4a8e-84d3-bab022b62251)
+
+## IA agent Repository
+
+[View the Asteroids game repository](https://github.com/CabyQuentin/Boot-IA-agent)
